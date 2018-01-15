@@ -30,7 +30,6 @@ namespace PartyInvites.Controllers
             }
             else
             {
-                //There is a validation error
                 return View();
             }
         }
